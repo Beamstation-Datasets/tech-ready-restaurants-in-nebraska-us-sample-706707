@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Nebraska, US",
+  "export_job_id": "45ce24b6-115b-4ed5-9ed5-b906607ba8a9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 706707,
+  "location_name": "Nebraska",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-nebraska-us-sample-706707",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/706707/beamstation_706707_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_pct": 25.0,
+  "sample_records": 1,
+  "sample_sha256": "95824017fc78a2be52044f0c902f68a4856edbafcdb7ed2a5a8e47ee1bff362c",
+  "sample_size_bytes": 20310,
+  "total_records": 4,
+  "updated_at": "2026-04-08T07:52:50.442938+00:00"
+}

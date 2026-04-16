@@ -1,0 +1,12 @@
+{
+  "export_job_id": "45ce24b6-115b-4ed5-9ed5-b906607ba8a9",
+  "id_short": 706707,
+  "published_at": "2026-04-16T07:57:56Z",
+  "repo_name": "tech-ready-restaurants-in-nebraska-us-sample-706707",
+  "sample_asset_name": "beamstation_706707_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/706707/beamstation_706707_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "95824017fc78a2be52044f0c902f68a4856edbafcdb7ed2a5a8e47ee1bff362c",
+  "sample_size_bytes": 20310,
+  "total_records": 4
+}

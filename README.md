@@ -9,9 +9,9 @@
 | Dataset ID | `706707` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 1 records |
-| Free sample size | 1 records (100.0%) |
-| Last export | 2026-04-15T11:05:10.756387+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T19:09:47.288215+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-nebraska-us-sample-706707/releases/download/sample-latest/beamstation_706707_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
